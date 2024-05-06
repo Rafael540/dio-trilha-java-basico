@@ -1,18 +1,3 @@
-## Getting Started
+# Exercício Conta Bancária 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Exercício proposto pela Digital Inovation One(DIO) como parte do aprendizado da línguagem de programação Java. Tendo objetivo de aplicar princípios básicos de desenvolvimento de algoritmos, a presente linha de código contém métodos e variáveis simples, visando simular um ambiente de conta bancário através de inputs e, em seguida, informações serem expostas no terminal. 
