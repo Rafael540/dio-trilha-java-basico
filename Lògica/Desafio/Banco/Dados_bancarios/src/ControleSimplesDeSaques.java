@@ -8,8 +8,6 @@ public class ControleSimplesDeSaques {
         double limiteDiario = scanner.nextDouble();
         double saque = scanner.nextDouble();
         int i;
-        
-        
 
         for(i= 0; saque <= limiteDiario && saque != 0; i++){
             limiteDiario= limiteDiario - saque;

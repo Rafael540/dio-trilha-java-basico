@@ -8,8 +8,7 @@ public class SimulacaoBancaria {
         double deposito = 0;
         double sacar = 0;
         int opcao = 0;
-        // Loop infinito para manter o programa em execução até que o usuário decida sair
-   
+    
         while(opcao != 4) {
             opcao = scanner.nextInt(); 
             switch (opcao){
